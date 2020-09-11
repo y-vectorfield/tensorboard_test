@@ -1,2 +1,2 @@
-# tensorboard_test
+# Tensorboard Test
 Jupyter NotebookでTenor Boardを試す
